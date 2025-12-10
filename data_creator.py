@@ -3,7 +3,7 @@ import qrcode
 import os
 
 
-DATA_BASE_NAME = "main.db"
+DATA_BASE_NAME = "sample-database.db"
 
 
 class StudentInfo:  # Main class
