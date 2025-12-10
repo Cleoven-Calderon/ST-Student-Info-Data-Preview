@@ -1,6 +1,6 @@
-# ST-Student-Info-Data-Preview
+# Student Info Data Preview
 
-ST-Student-Info-Data-Preview is a small Python/Streamlit project that lets you view, manage, and visualize student information data stored in a SQLite database.  
+This project is a small Python/Streamlit project that lets you view, manage, and visualize student information data stored in a SQLite database.  
 It’s intended as a simple, interactive tool for previewing student records through a web interface — ideal for small applications, demos, or educational projects.
 
 ## Screenshot
