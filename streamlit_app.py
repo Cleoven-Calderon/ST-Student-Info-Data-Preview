@@ -3,9 +3,11 @@ import streamlit as st
 import sqlite3
 from PIL import Image
 
+DATA_BASE_NAME = "sample-database.db"
+
 
 def get_connection():
-    return sqlite3.connect("main.db")
+    return sqlite3.connect(DATA_BASE_NAME)
 
 
 st.set_page_config(
